@@ -1,0 +1,5 @@
+[target1]
+172.31.85.115 ansible_user=ansadmin ansible_sudo_pass=pass 
+
+[target2]
+172.31.93.230  ansible_user=ansadmin ansible_sudo_pass=pass
